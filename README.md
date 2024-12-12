@@ -3,7 +3,7 @@
 This repository contains resources for my project, including a Google Colaboratory notebook.
 
 ## Files Included
-- **Final_project_assignment_MAS.pdf**: [Add a brief description of the PDF document here.]
+- **Final_project_assignment_MAS.pdf**: [Data Analysis Report]
 - **ColabLink.txt**: Contains the link to the Google Colaboratory notebook.
 
 ## Google Colaboratory Notebook
