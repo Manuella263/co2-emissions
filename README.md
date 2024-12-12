@@ -12,3 +12,5 @@ Access the notebook [here](https://colab.research.google.com/drive/1N_WpyMao4Zzu
 ## How to Use
 1. Open the [Google Colaboratory notebook](https://colab.research.google.com/drive/1N_WpyMao4ZzuW_Y4IbOq9iMRq3hfYrd1#scrollTo=qCUmPde_BiId) to view and run the code.
 2. Download the **Final_project_assignment_MAS.pdf** for Data analysis report.
+
+3. Feedback in Dutch please
